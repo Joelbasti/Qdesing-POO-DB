@@ -12,7 +12,8 @@ cuenta con 4 directorios
 
 
 Evidencias del campo Email en Qdesing y sus propiedades
-<img width="1916" height="1076" alt="image" src="https://github.com/user-attachments/assets/9d206317-0a48-4431-8bca-afc7515133d9" />
+<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/cd712c71-d00f-4eb6-a287-6400be39cc83" />
+
 
 Evidencia de la ejecucion de la ventana
 <img width="3286" height="1080" alt="image" src="https://github.com/user-attachments/assets/a44479a7-70cd-41f9-91a3-052941d95b82" />
